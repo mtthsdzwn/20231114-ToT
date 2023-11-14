@@ -1,0 +1,122 @@
+---
+title: "Wat heb ik geleerd bij de </br>*Workshop on Open Citations &</br>Open Scholarly Metadata*"
+author: "Matthijs de Zwaan"
+format: 
+  revealjs:
+    theme: [simple, "../stylefiles/VU-revealjs.scss"]
+    template-partials:
+      - title-slide.html
+    preview-links: auto
+    callout-icon: false
+    center: false
+editor: visual
+---
+
+## What is the *WOCOSM*?
+
+ - Kleinschalige, tweejaarlijkse conferentie voor onderzoekers, beleidsmedewerkers & ondersteuning, etc
+ - in Bologna
+ - Thema: *The value of open scholarly metadata for research assessment purposes*
+
+## Wat moet je onthouden?
+
+::: {.callout-note}
+## *Open research information*
+Open data over onderzoek voor beleid, evaluatie, etc
+:::
+:::: {.columns .center}
+
+::: {.column width="33%"}
+::: {.callout-note}
+## Cultuurverandering
+Cultuur is belangrijk, maar ook moeilijk.
+:::
+:::
+
+::: {.column width="33%"}
+::: {.callout-note}
+## Schaal
+Schaal is belangrijk, maar ook moeilijk.
+:::
+:::
+
+::: {.column width="33%"}
+::: {.callout-note}
+## *I know it when I see it*
+Meta-data is belangrijk, maar ook moeilijk.
+:::
+:::
+
+::: {.callout-note}
+## Stappen in de goede richting
+{{< iconify line-md sunny-outline-loop >}} Vooruitgang & momentum {{< iconify line-md sunny-outline-loop >}}
+:::
+:::
+
+::::
+
+## Wat mag je onthouden?
+
+:::: {.columns}
+::: {.column width="70%"}
+
+::: {.callout-note}
+## Met de trein?
+Met de trein naar Bologna is lastig </br>(maar vliegen gaat ook niet zo soepel).
+:::
+
+::: {.callout-note}
+## Schuiner dan Pisa
+*Garisenda* staat schuiner dan de toren van Pisa.
+:::
+
+::: {.callout-note}
+## Spaghetti Bolognese
+Bestaat niet
+:::
+:::
+
+::: {.column width="29%"}
+[![Garisenda](img/garisenda.jpg){fig-align="left" height=550px}](https://commons.wikimedia.org/wiki/File:2tours_bologne_082005.jpg)
+:::
+
+::::
+
+## Cultuurverandering
+
+::: {.callout-note}
+## Open evaluatie als onderdeel van Open Science
+
+Beleidsmakers en -ondersteuners sturen op Open Science, </br>maar gebruiken zelf gesloten data.
+:::
+
+::: {.callout-note}
+## Onbekendheid? Vertrouwen?
+
+ - Aankaarten van de mogelijkheden
+ - Vergelijking met vertrouwde oplossingen (maar...)
+:::
+
+## Oplossingen
+
+::: {.callout-note}
+
+## Reguliere publicaties
+[OpenAlex](https://openalex.org/), [OpenAire](https://netherlands.openaire.eu/)
+
+Niet perfect, wel goed bruikbaar
+:::
+
+::: {.callout-note}
+## Andere output
+Boeken, pre-prints, onderzoeksdata, software, protocollen, ...
+
+Inspirerend {{< iconify game-icons party-popper >}}  en confronterend {{< iconify noto disappointed-face >}}
+
+Allerlei technische problemen, die vooral op schaal lastig zijn.
+
+'Tweederangs output' (*Erkennen & Waarderen*)
+:::
+
+
+
